@@ -1,6 +1,7 @@
 import React from "react";
 
 export const Contact = () => {
+  console.log('contact page')
   return (
     <>
       <section
